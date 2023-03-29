@@ -1,0 +1,1 @@
+WORDS = ['years', 'chose', 'focus', 'horse', 'funny', 'dream', 'flows', 'dance', 'apple', 'games', 'stand']
